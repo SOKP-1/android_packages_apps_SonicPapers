@@ -1,0 +1,24 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Tapety Sonic</string>
+    <string name="title_activity_wallpaper">Tapety Sonic</string>
+    <string name="back">Poprzednia</string>
+    <string name="next">Następna</string>
+    <string name="page">Strona: </string>
+    <string name="set_wallpaper">Ustaw jako tapetę</string>
+    <string name="save_wallpaper">Zapisz w urządzeniu</string>
+    <string name="downloading">Pobieranie…</string>
+    <string name="wait">Proszę czekać</string>
+    <string name="set">Tapeta ustawiona!</string>
+    <string name="saved">Tapeta zapisana w</string>
+    <string name="jump">Przejdź do strony</string>
+    <string name="jump2">Przejdź do strony:</string>
+    <string name="about">O aplikacji</string>
+    <string name="wars">Wojny tapet</string>
+    <string name="vote">Głosuj!</string>
+    <string name="wallpaper">tapeta</string>
+    <string name="setting_wallpaper">Ustawienia tapet…</string>
+    <string name="category_name">Nazwa kategorii</string>
+    <string name="choose_category">Wybierz kategorię</string>
+
+</resources>
